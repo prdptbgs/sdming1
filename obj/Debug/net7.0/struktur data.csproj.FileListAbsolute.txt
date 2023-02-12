@@ -1,0 +1,5 @@
+/Users/macbook/Desktop/struktur data /obj/Debug/net7.0/struktur data.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/struktur data /obj/Debug/net7.0/struktur data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/struktur data /obj/Debug/net7.0/struktur data.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/struktur data /obj/Debug/net7.0/struktur data.AssemblyInfo.cs
+/Users/macbook/Desktop/struktur data /obj/Debug/net7.0/struktur data.csproj.CoreCompileInputs.cache

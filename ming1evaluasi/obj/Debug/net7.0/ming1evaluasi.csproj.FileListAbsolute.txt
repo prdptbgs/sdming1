@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/struktur data /ming1evaluasi/bin/Debug/net7.0/ming1evaluasi
+/Users/macbook/Desktop/struktur data /ming1evaluasi/bin/Debug/net7.0/ming1evaluasi.deps.json
+/Users/macbook/Desktop/struktur data /ming1evaluasi/bin/Debug/net7.0/ming1evaluasi.runtimeconfig.json
+/Users/macbook/Desktop/struktur data /ming1evaluasi/bin/Debug/net7.0/ming1evaluasi.dll
+/Users/macbook/Desktop/struktur data /ming1evaluasi/bin/Debug/net7.0/ming1evaluasi.pdb
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.AssemblyInfo.cs
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.dll
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/refint/ming1evaluasi.dll
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.pdb
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ming1evaluasi.genruntimeconfig.cache
+/Users/macbook/Desktop/struktur data /ming1evaluasi/obj/Debug/net7.0/ref/ming1evaluasi.dll

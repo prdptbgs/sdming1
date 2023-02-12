@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.AssemblyInfo.cs
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/struktur data /ming1praktikum/bin/Debug/net7.0/ming1praktikum
+/Users/macbook/Desktop/struktur data /ming1praktikum/bin/Debug/net7.0/ming1praktikum.deps.json
+/Users/macbook/Desktop/struktur data /ming1praktikum/bin/Debug/net7.0/ming1praktikum.runtimeconfig.json
+/Users/macbook/Desktop/struktur data /ming1praktikum/bin/Debug/net7.0/ming1praktikum.dll
+/Users/macbook/Desktop/struktur data /ming1praktikum/bin/Debug/net7.0/ming1praktikum.pdb
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.dll
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/refint/ming1praktikum.dll
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.pdb
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ming1praktikum.genruntimeconfig.cache
+/Users/macbook/Desktop/struktur data /ming1praktikum/obj/Debug/net7.0/ref/ming1praktikum.dll

@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/struktur data /coba/bin/Debug/net7.0/coba
+/Users/macbook/Desktop/struktur data /coba/bin/Debug/net7.0/coba.deps.json
+/Users/macbook/Desktop/struktur data /coba/bin/Debug/net7.0/coba.runtimeconfig.json
+/Users/macbook/Desktop/struktur data /coba/bin/Debug/net7.0/coba.dll
+/Users/macbook/Desktop/struktur data /coba/bin/Debug/net7.0/coba.pdb
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.AssemblyInfo.cs
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.dll
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/refint/coba.dll
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.pdb
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/coba.genruntimeconfig.cache
+/Users/macbook/Desktop/struktur data /coba/obj/Debug/net7.0/ref/coba.dll
